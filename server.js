@@ -1,7 +1,7 @@
 const http = require('http'); 
 const fs = require('fs'); 
 // Server configuration 
-const hostname = '127.0.0.1'; 
+const hostname = 'calico-recoveru-b6bbb7b2f8bshzdq.swedencentral-01.azurewebsites.net'; 
 const port = 3000; 
 // Render page 
 fs.readFile('./pages/index.html', function (err, html) { 
