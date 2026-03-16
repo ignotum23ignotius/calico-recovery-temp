@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/5223d96d-eecc-4158-a4c2-d3fed9ff5d9c/resourceGroups/calico-recoveru_group/providers/Microsoft.Web/sites/calico-recoveru",
+    "appService.deploySubpath": "pages"
+}
